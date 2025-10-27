@@ -55,4 +55,9 @@ console.table(orders)
 console.table(orders, ["customer"]);
 ```
 
-
+---
+7-
+```
+const recentOrders = orders.filter(o => o.orderId >2);
+console.table(recentOrders);
+```
