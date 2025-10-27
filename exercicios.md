@@ -38,7 +38,15 @@
 ```
 JSON.parse(JSON.stringify(orders))
 ```
-
 ---
-
 4-
+```
+const text = JSON.stringify(orders, null,2);
+console.log(text);
+```
+
+
+
+
+
+
