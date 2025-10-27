@@ -49,6 +49,10 @@ console.log(text);
 ```
 console.table(orders)
 ```
-
+---
+6-
+```
+console.table(orders, ["customer"]);
+```
 
 
