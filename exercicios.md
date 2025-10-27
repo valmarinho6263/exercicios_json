@@ -33,3 +33,12 @@
     }
 ]
 ```
+---
+3-
+```
+JSON.parse(JSON.stringify(orders))
+```
+
+---
+
+4-
