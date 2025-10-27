@@ -44,9 +44,11 @@ JSON.parse(JSON.stringify(orders))
 const text = JSON.stringify(orders, null,2);
 console.log(text);
 ```
-
-
-
+---
+5-
+```
+console.table(orders)
+```
 
 
 
