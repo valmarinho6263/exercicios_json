@@ -192,3 +192,6 @@ const jsonString = JSON.stringify(payments);
 console.table(pagamentos);
 ```
 18
+```
+  const jsonString = JSON.stringify(payments)
+```
