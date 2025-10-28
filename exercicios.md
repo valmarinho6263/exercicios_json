@@ -195,3 +195,8 @@ console.table(pagamentos);
 ```
   const jsonString = JSON.stringify(payments)
 ```
+19
+```
+const jsonString = JSON.stringify(payments, null, 2 );
+console.log(jsonString);
+```
