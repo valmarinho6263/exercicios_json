@@ -63,7 +63,9 @@ console.table(recentOrders);
 ```
 8-
 ```
-{"theme - string":"dark",
- "language - string":"pt - br",
-"notifications"  : true,}
+{
+    "theme ": "dark",
+    "language ": "pt-BR",
+    "notifications": true
+}
 ```
