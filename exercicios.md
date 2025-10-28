@@ -76,4 +76,12 @@ const profile = {name : Val Marinho",
                  city:"Goiania",
 skills:["html", "css","js"] };
 ```
-
+10-
+```
+{
+  "name":"val",
+  "age":63, 
+  "city":"Goiania",
+  "skills":["js", "react", "html"]
+};
+```
