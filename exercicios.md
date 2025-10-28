@@ -184,3 +184,8 @@ const payments =[
 
 ```
 16
+```
+const jsonString = JSON.stringify(payments);
+```
+17
+```
