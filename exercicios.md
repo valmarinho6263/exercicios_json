@@ -69,3 +69,11 @@ console.table(recentOrders);
     "notifications": true
 }
 ```
+9-
+```
+const profile = {name : Val Marinho",
+                 age : 63,
+                 city:"Goiania",
+skills:["html", "css","js"] };
+```
+
