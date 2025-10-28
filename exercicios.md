@@ -107,3 +107,15 @@ skills:["html", "css","js"] };
     ]
 }
 ```
+12
+```
+{
+  "name":"val",
+  "age" : 63,
+"city" : " Goiania",}
+
+{
+ "name":"val",
+  "age" : 63,
+"city" : " Goiania"}
+```
