@@ -140,4 +140,32 @@ skills:["html", "css","js"] };
         }
     ]
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```
+14
+
+
+{
+  name : val,
+  age  : 63,
+ city :  Goiania,}
+
+{
+ "name":"val",
+  "age" : 63,
+"city" : " Goiania",}
