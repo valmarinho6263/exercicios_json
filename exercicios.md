@@ -202,6 +202,10 @@ console.log(jsonString);
 ```
 20
 ```
+console.table(dataArray,["firsName"]);
+```
+21
+```
 const X = 101;
 const filteredOrders = orders.filter(order = >order.id>X);
 console.table(filteredOrders);
