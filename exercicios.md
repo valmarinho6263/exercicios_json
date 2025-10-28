@@ -200,3 +200,9 @@ console.table(pagamentos);
 const jsonString = JSON.stringify(payments, null, 2 );
 console.log(jsonString);
 ```
+20
+```
+const X = 101;
+const filteredOrders = orders.filter(order = >order.id>X);
+console.table(filteredOrders);
+```
