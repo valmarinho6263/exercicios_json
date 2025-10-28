@@ -61,3 +61,9 @@ console.table(orders, ["customer"]);
 const recentOrders = orders.filter(o => o.orderId >2);
 console.table(recentOrders);
 ```
+8-
+```
+{"theme - string":"dark",
+ "language - string":"pt - br",
+"notifications"  : true,}
+```
