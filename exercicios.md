@@ -165,3 +165,24 @@ skills:["html", "css","js"] };
   "age" : 63,
 "city" : " Goiania",}
 ```
+15
+```
+const payments =
+[
+{paymentId : 1, customer: "Ayla", amount : 250},
+                   {const paympaymentId" : 2, customer": "Elis", "amount" : 510},
+                    {paymentId": 3, customer": "Maria", "amount" : 178},
+                    {paymentId": 4, customer": "Heitor", "amount" : 89},
+  {paymentId: 5, "customer": "Val", "amount" : 340}
+];
+
+
+
+[
+{"paymentId" : 1,"customer": "Ayla", "amount" : 250},
+                   {"paymentId" : 2, "customer": "Elis", "amount" : 510},
+                    {"paymentId": 3, "customer": "Maria", "amount" : 178},
+                    {"paymentId": 4, "customer": "Heitor", "amount" : 89},
+  {"paymentId": 5, "customer": "Val", "amount" : 340}
+];
+```
