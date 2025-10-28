@@ -127,12 +127,7 @@ skills:["html", "css","js"] };
         {
             'sku': 'A123',
             'name': 'Laptop',
-            'Price': 2999,
-            'tags': [
-                'eletronics',
-                'portable'
-            ]
-        },
+            'Price': 2999 },
         {
             'sku': 'B456',
             'name': 'mouse',
@@ -141,24 +136,24 @@ skills:["html", "css","js"] };
     ]
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{
+ "store": "TechShop",
+    "items": [
+        {
+            "sku": "A123",
+            "name": "Laptop",
+            "Price": 2999 },
+        {
+            "sku": "B456",
+            "name": "mouse",
+            "price": 99
+        }
+    ]
+}
 
 ```
 14
-
+```
 
 {
   name : val,
@@ -169,3 +164,4 @@ skills:["html", "css","js"] };
  "name":"val",
   "age" : 63,
 "city" : " Goiania",}
+```
