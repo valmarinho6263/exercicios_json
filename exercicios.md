@@ -85,3 +85,25 @@ skills:["html", "css","js"] };
   "skills":["js", "react", "html"]
 };
 ```
+11
+```
+{
+    "store": "TechShop",
+    "items": [
+        {
+            "sku": "A123",
+            "name": "Laptop",
+            "Price": 2999,
+            "tags": [
+                "eletronics",
+                "portable"
+            ]
+        },
+        {
+            "sku": "B456",
+            "name": "mouse",
+            "price": 99
+        }
+    ]
+}
+```
